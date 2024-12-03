@@ -1,0 +1,3 @@
+24.12.3 - Tan - Added ability to detect if were in an LFR or not
+        - Tan - Stubbed in conditionals so it will only announce if you are in an LFR otherwise it will just print in the chat log.
+        
