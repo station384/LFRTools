@@ -1,2 +1,2 @@
 # LFRTools
-World of Warcraft addon the annouces when a player joins a looking for Raid or Looking for group and there current spec is not what they signed up for.
+When a player joins a Looking for Raid or Looking for Group, this World of Warcraft addon announces if their current specialisation does not match the one they signed up for.
