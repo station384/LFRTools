@@ -17,6 +17,9 @@
     "Lua.diagnostics.globals": [
         "DEFAULT_CHAT_FRAME",
         "LE_PARTY_CATEGORY_INSTANCE",
-        "Raid"
+        "Raid",
+        "Settings",
+        "SlashCmdList",
+        "message"
     ]
 }

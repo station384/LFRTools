@@ -1,3 +1,7 @@
 24.12.3 - Tan - Added ability to detect if were in an LFR or not
         - Tan - Stubbed in conditionals so it will only announce if you are in an LFR otherwise it will just print in the chat log.
+        - Tan - Added settings to the Options->Addons
+        - Tan - Completed conditionals,  Addon can now be disabled or set to anounouce only to play or the group
+        - Tan - Changed functionaly so addon will only check if in an LFR instance.
+        - Tan - Code changes for performance reasons.  
         

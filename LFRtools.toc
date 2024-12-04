@@ -4,5 +4,5 @@
 ## Author: Gizel, Maintained by Tanstaafl
 ## Version: r20241203
 ## Notes: A callout addon that will alert players if the spec they are in is different from what they joined as in LFR.  This is a version bump of an abandoned addon. 
-## SavedVariables: LFRDetectorDB
+## SavedVariables: LFRtoolsDB
 LFRtools.lua
