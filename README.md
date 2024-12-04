@@ -24,6 +24,7 @@ To initiate a manual scan, run the following macro in-game:
 
 ```plaintext
 /run LFRtools.scanGroup()
+```
 
 
 ## **Settings**
