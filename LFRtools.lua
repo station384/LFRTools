@@ -37,8 +37,8 @@ local total = 0;
 local settingID = nil;  --Used to hold the categoryID of the settings panel.
 local settings = {};  --Volitile settings table
 local savedSettings = {
-	enabled = false, -- Default: Yes normal processing
-    announceLFR = false, -- Default: Announce to party/raid or only announce to player
+	enabled = true, -- Default: Yes normal processing
+    announceLFR = true, -- Default: Announce to party/raid or only announce to player
 	
 } -- Defaults for the settings if none exists.
 
