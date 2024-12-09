@@ -76,10 +76,10 @@ end
 	or difficultyID == 33 -- Timewalking Raid
 	or difficultyID == 151 -- Timewalking Raid
 	then
-        print("You are in a Looking For Raid (LFR) instance.")
+       -- print("You are in a Looking For Raid (LFR) instance.")
         return true
     else
-        print("This is not an LFR instance.")
+       -- print("This is not an LFR instance.")
         return false
     end
 end
